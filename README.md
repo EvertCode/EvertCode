@@ -22,9 +22,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
-[![Twitter: evertcode](https://img.shields.io/twitter/follow/evertcode?style=social)](https://twitter.com/evertcode)
-[![GitHub evertcode](https://img.shields.io/github/followers/evertcode?label=follow&style=social)](https://github.com/evertcode)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
