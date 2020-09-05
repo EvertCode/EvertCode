@@ -35,6 +35,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertcode&layout=compact" />
 </a>
 
+![Evertcode's github stats](https://github-readme-stats.vercel.app/api?username=evertcode&show_icons=true&theme=radical)
+
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
