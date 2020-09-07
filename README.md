@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on Metlife.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Spring Batch.
+- 🤔 I’m looking for help with Kubernetes.
 - 💬 Ask me about Java, JavaScript, ReactJS, Angular.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
