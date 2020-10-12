@@ -19,7 +19,6 @@
 - 🤔 I’m looking for help with Kubernetes.
 - 💬 Ask me about Java, JavaScript, ReactJS, Angular.
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
 **Languages and Tools:**  
