@@ -13,8 +13,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=evertcode.evertcode)
 
 <br/>
+<img  src="https://raw.githubusercontent.com/evertcode/evertcode/master/javascript.gif" />
 <br/>
-
 - 🔭 I’m currently working on Metlife.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on ...
