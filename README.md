@@ -16,22 +16,21 @@
 <img  src="https://raw.githubusercontent.com/evertcode/evertcode/master/javascript.gif" />
 <br/>
 
-- 🔭 I’m currently working on Metlife.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on AXA Seguros México.
+- 🌱 I’m currently learning Next JS.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Kubernetes.
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, JavaScript, ReactJS, Angular.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
 **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
 
 <a href="https://github.com/evertcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertcode&layout=compact" />
