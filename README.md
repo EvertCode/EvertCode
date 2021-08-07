@@ -13,8 +13,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=evertcode.evertcode)
 
 <br/>
-<img  src="https://raw.githubusercontent.com/evertcode/evertcode/master/javascript.gif" />
-<br/>
 
 - 🔭 I’m currently working on AXA Seguros México.
 - 🌱 I’m currently learning GraphQl.
