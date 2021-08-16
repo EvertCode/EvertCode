@@ -1,4 +1,4 @@
-## Hey, I'm [Hebert Hernandez](https://evertcode.com.mx) 👋
+## Hey, I'm Hebert Hernandez 👋
 
 <a href="https://www.linkedin.com/in/evertcode/">
   <img align="left" alt="evertcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
