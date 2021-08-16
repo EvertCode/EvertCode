@@ -15,10 +15,10 @@
 <br/>
 
 - 🔭 I’m currently working on AXA Seguros México.
-- 🌱 I’m currently learning GraphQl.
+- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Java, JavaScript, React JS, Next JS, Angular.
+- 💬 Ask me about Java, Spring Boot, JavaScript, React JS, Next JS, Angular.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
 
