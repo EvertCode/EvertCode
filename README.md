@@ -9,15 +9,15 @@
 <a href="https://github.com/evertcode" style="padding-bottom: 1.5em;">
   <img align="left" alt="evertcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-- 🔭 I’m currently working on AXA Seguros México.
+<div>
+- 🔭 I’m currently working on AXA.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java, Spring Boot, JavaScript, React JS, Next JS, Angular.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I spend almost 12 hours coding everyday.
-
+</div>
 <a href="https://github.com/evertcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertcode&layout=compact" />
 </a>
