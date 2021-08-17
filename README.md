@@ -6,13 +6,9 @@
 <a href="https://twitter.com/evertcode">
   <img align="left" alt="evertcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/evertcode">
+<a href="https://github.com/evertcode" style="padding-bottom: 1.5em;">
   <img align="left" alt="evertcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=evertcode.evertcode)
-
-<br/>
 
 - 🔭 I’m currently working on AXA Seguros México.
 - 🌱 I’m currently learning Rust.
