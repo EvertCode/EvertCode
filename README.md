@@ -32,11 +32,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/firebase/firebase.png"></code>
 
-📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/evertcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
