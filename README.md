@@ -20,6 +20,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/evertcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
