@@ -14,7 +14,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/evertcode/evertcode/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼  Any freelance work? do reach, [email](mailto:hebert.hernandez7@gmail.com)
+- 💼  Any freelance work? do reach, [email](mailto:contact@evertcode.com)
 - 💬  Ask me about anything, i am happy to help;
 
 **Languages and tools:**  
