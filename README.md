@@ -50,4 +50,8 @@ SCSS               5 mins          ▓░░░░░░░░░░░░░░
 
 📈 **My github stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evertcode&show_icons=true&theme=gotham" alt="evertcode" />
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=evertcode&show_icons=true&theme=gotham" alt="evertcode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertcode&theme=gotham&layout=compact" alt="evertcode" />
+</p>
+  
