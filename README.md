@@ -10,9 +10,6 @@
 Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and a software engineer from México.
 
 <img align="right" alt="GIF" src="https://github.com/evertcode/evertcode/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼  Any freelance work? do reach, [email](mailto:contact@evertcode.com)
-- 💬  Ask me about anything, i am happy to help;
 
 **Languages and tools:**  
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
