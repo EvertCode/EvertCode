@@ -11,22 +11,6 @@ Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and
 
 <img align="right" alt="GIF" src="https://github.com/evertcode/evertcode/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**Languages and tools:**  
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"/></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/angular/angular.png?raw=true"/></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/react/react.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/express/express.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/java/java.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/spring/spring.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/firebase/firebase.png"></code>
-
-
 📊 **This week i spent my time on:**
 
 <!--START_SECTION:waka-->
