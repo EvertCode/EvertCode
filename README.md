@@ -25,11 +25,3 @@ HTML         24 mins         ▒░░░░░░░░░░░░░░░░
 
 <a href="https://www.buymeacoffee.com/evertcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
-📈 **My github stats**
-
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=evertcode&show_icons=true&theme=gotham" alt="evertcode" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertcode&theme=gotham&layout=compact" alt="evertcode" />
-</p>
-  
