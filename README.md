@@ -16,12 +16,12 @@ Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and
 <!--START_SECTION:waka-->
 
 ```text
-Docker           5 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-Java             2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-SQL              1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-C                1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Markdown         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-PHP              1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Docker           5 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.07 %
+SQL              1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+PHP              1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+C                1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+Markdown         1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Other            45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
