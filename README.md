@@ -16,12 +16,12 @@ Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and
 <!--START_SECTION:waka-->
 
 ```text
-Java              8 hrs 1 min     ██████████░░░░░░░░░░░░░░░   40.05 %
-XML               4 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-Bash              2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-Kotlin            1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-JavaScript        1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Markdown          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Java              8 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.83 %
+XML               4 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Bash              2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Kotlin            1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+JavaScript        1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Markdown          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
