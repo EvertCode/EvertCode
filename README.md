@@ -16,7 +16,7 @@ Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin   42 mins         █████████████████████████   100.00 %
+Kotlin   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
