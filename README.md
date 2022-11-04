@@ -16,9 +16,9 @@ Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and
 <!--START_SECTION:waka-->
 
 ```text
-XML    31 mins         █████████████████████░░░░   83.42 %
-Java   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+XML    23 mins         ███████████████████▓░░░░░   78.96 %
+Java   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
