@@ -15,7 +15,7 @@ Hi, i'm Hebert Hernández, a passionate self-taught full stack web developer and
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   2 hrs 44 mins   ██████████▓░░░░░░░░░░░░░░   42.80 %
 Other        2 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   36.61 %
 JSON         51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
